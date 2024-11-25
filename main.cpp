@@ -124,13 +124,13 @@ answeringMachine.recordMessage();
 answeringMachine.playRecordedMessage();
 
 //  9)
-//  Noun: snow
-//  action 1: snow falls
-snopw.fall();
-//  action 2: snow accumulates
-snow.accumulate();
-//  action 3: snow melts
-snow.melt();
+//  Noun: computer screen
+//  action 1: a computer screen displays an image
+computerScreen.displayImage();
+//  action 2: a computer screen changes resolution
+computerScreen.changeResolution();
+//  action 3: a computer screen goes to sleep after inactivity
+computerScreen.sleepAfterInactivity();
 
 //  10) 
 //  Noun: programmer
