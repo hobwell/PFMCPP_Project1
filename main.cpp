@@ -52,84 +52,94 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
+//  Noun: person
+//  action 1: the person sleeps
+person.sleep();
+//  action 2: the person eats
+person.eat();
+//  action 3: the person calls their mother
+person.callMom();
 
-//  action 2:
-
-//  action 3:
-
-//  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  2) 
+//  Noun: automatic door
+//  action 1: the automatic door waits until it detects a person
+automaticDoor.detectPerson();
+//  action 2: the automatic door opens
+automaticDoor.open();
+//  action 3: the automatic door closes
+automaticDoor.close();
 
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: cat
+//  action 1: the cat meows
+cat.meow();
+//  action 2: the cat hisses
+cat.hiss();
+//  action 3: grooms itself
+cat.groomSelf();
 
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: bread maker
+//  action 1: the bread maker waits for ingredients
+breadMaker.waitForIngredients();
+//  action 2: mixes ingredients into dough
+breadMaker.mixIngredients();
+//  action 3: cooks dough into bread
+breakMaker.cookDough();
 
 //  5)
-//  Noun:
-//  action 1:
+//  Noun: star
+//  action 1: a star emits light
+star.emitLight();
+//  action 2: a star expands
+star.expand();
+//  action 3: a star collapses
+earch.collapse();
 
-//  action 2:
-
-//  action 3:
-
-//  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  6) 
+//  Noun: cell
+//  action 1: a cell divides
+cell.divide();
+//  action 2: a cell consumes energy
+cell.consumeEnergy();
+//  action 3: a cell dies
+cell.die();
 
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: tree
+//  action 1: a tree grows leaves
+tree.growLeaf();
+//  action 2: a tree sheds leaves
+tree.shedLeaf();
+//  action 3: a tree grows fruit
+tree.growFruit();
 
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: answering machine
+//  action 1: an answering machine waits for calls
+answeringMachine.waitForCall();
+//  action 2: an answering machine records messages
+answeringMachine.recordMessage();
+//  action 3: an answering machine plays back recorded messages
+answeringMachine.playRecordedMessage();
 
 //  9)
-//  Noun:
-//  action 1:
+//  Noun: snow
+//  action 1: snow falls
+snopw.fall();
+//  action 2: snow accumulates
+snow.accumulate();
+//  action 3: snow melts
+snow.melt();
 
-//  action 2:
-
-//  action 3:
-
-//  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  10) 
+//  Noun: programmer
+//  action 1: programmers write code
+programmer.writeCode();
+//  action 2: programmers break stuff
+programmer.breakStuff();
+//  action 3: a programmers innovate
+programmer.innovate()
 
 
 
